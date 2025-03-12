@@ -1,0 +1,16 @@
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  list-style-type: none;
+
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+
+}
+.item:hover{
+
+}
